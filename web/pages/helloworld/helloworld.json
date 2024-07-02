@@ -1,0 +1,12 @@
+{
+    "type": "page",
+    "body": {
+      "type": "service",
+      "api": "/api/hello/world",
+      "body": {
+        "type": "panel",
+        "title": "从后端获取的内容: ",
+        "body": "${title}:  ${body}"
+      }
+    }
+  }

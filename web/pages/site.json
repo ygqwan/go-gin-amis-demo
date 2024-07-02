@@ -1,0 +1,15 @@
+{
+  "data": {
+    "pages": [
+      {
+        "children": [
+          {
+            "label": "hello-world",
+            "url": "/hello/world",
+            "schemaApi": "get:/web/pages/helloworld/helloworld.json"
+          }
+        ]
+      }
+    ]
+  }
+}

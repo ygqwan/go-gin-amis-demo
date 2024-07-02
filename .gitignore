@@ -1,0 +1,6 @@
+\.idea
+\.vscode
+\main
+\output
+.DS_Store
+\tmp
